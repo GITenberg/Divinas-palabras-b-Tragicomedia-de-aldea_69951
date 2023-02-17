@@ -1,0 +1,38 @@
+_repo: Divinas-palabras-b-Tragicomedia-de-aldea_69951
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Valle-Inclán, Ramón del
+    aliases:
+    - Valle-Inclan, Ramon del
+    - Inclán, Ramón del Valle
+    - Del Valle-Inclán, Ramón
+    - Montenegro, Ramón María del Valle Inclán y
+    - Montenegro, Ramon Maria del Valle Inclan y
+    - Del, Valle-Inclán Ramón
+    birthdate: 1866
+    deathdate: 1936
+    gutenberg_agent_id: '3562'
+    url: http://www.gutenberg.org/2009/agents/3562
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ram%C3%B3n_del_Valle-Incl%C3%A1n
+    - https://es.wikipedia.org/wiki/Ram%C3%B3n_Mar%C3%ADa_del_Valle-Incl%C3%A1n
+description: ''
+gutenberg_issued: '2023-02-04'
+identifiers:
+  gutenberg: '69951'
+language: es
+pgterms:marc904: http://bdh.bne.es/bnesearch/detalle/bdh0000231828
+pgterms:marc905: 20221220221207valleincln
+pgterms:marc906: '1920'
+pgterms:marc907: ES
+production_note: Ramón Pajares Box. (This file was produced from images generously
+  made available by Biblioteca Digital Hispánica/Biblioteca Nacional de España.)
+publication_note: '  $aSpain :$bImprenta Yagües, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Divinas palabras : $b Tragicomedia de aldea'
+url: http://www.gutenberg.org/ebooks/69951
